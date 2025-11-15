@@ -1,0 +1,5 @@
+{
+  "name": "Compressed Air Network Sizer",
+  "description": "An expert tool for mechanical engineers to size compressed air headers, drops, and sub-drops based on plant requirements. It calculates required pipe sizes using fluid dynamics principles and presents results in clear comparison tables.",
+  "requestFramePermissions": []
+}
